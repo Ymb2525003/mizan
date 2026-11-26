@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Mizan balance mark</title>
+  <rect width="64" height="64" rx="18" fill="#123D32"/>
+  <g fill="none" stroke="#F5EBD5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 15v28M18 24h28M22 27l-7 13h14l-7-13M42 27l-7 13h14l-7-13" stroke-width="3.4"/>
+    <path d="M23 47h18" stroke-width="4.2"/>
+    <circle cx="32" cy="24" r="2.6" fill="#F5EBD5" stroke="none"/>
+  </g>
+</svg>
