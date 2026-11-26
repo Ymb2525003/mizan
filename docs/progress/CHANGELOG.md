@@ -14,3 +14,8 @@
 - Added Mizan branding coverage to the sign-in and dashboard end-to-end test.
 - Expanded roadmap entries with explicit requirements and implementation tasks.
 - Added modular-architecture work to the roadmap after code review identified the single-file application as maintainability debt.
+
+### Delivery
+
+- Created local commit `ebec7a58b5d7a497275d3eb63902181960dc5b75` (`feat: establish Mizan identity and progress workflow`).
+- GitHub push is blocked because this repository has no configured remote.
