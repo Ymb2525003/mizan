@@ -2,11 +2,11 @@
 
 ## Current
 
-**001 — Governance and Mizan identity** is blocked. Its implementation, review, and local verification are complete; commit `ebec7a58b5d7a497275d3eb63902181960dc5b75` exists locally. It cannot be completed until a GitHub remote is configured and the commit can be pushed and verified.
+**002 — Quality toolchain** is next.
 
 ## Completed
 
-None.
+**001 — Governance and Mizan identity**: implemented, reviewed, tested, and pushed. GitHub `master` was verified at `415d61be036622f761dc359ab798fd8316970196`, which includes the implementation commit.
 
 ## Upcoming
 
@@ -15,10 +15,10 @@ None.
 ## Repository synchronization
 
 - Current branch: `master`.
-- GitHub remote: not configured.
-- Push status: blocked; `git push` returned “No configured push destination.”
+- GitHub remote: `origin` points to `https://github.com/Ymb2525003/mizan.git`.
+- Push status: milestone 001 commits pushed and verified on `origin/master`.
 - Verification: Playwright end-to-end suite passed 9 of 9 tests using installed Chrome through `PLAYWRIGHT_CHROME_PATH`. Linting and TypeScript checks are not configured yet; milestone 002 owns that work.
 
 ## Roadmap completion
 
-0 of 7 milestones complete (0%).
+1 of 7 milestones complete (14.3%).

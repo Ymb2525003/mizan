@@ -18,4 +18,4 @@
 ### Delivery
 
 - Created local commit `ebec7a58b5d7a497275d3eb63902181960dc5b75` (`feat: establish Mizan identity and progress workflow`).
-- GitHub push is blocked because this repository has no configured remote.
+- Configured the supplied GitHub origin and verified milestone 001 commits on `origin/master` at `415d61b`.
