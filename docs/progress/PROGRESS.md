@@ -20,9 +20,9 @@
 
 - Current branch: `master`.
 - GitHub remote: `origin` points to `https://github.com/Ymb2525003/mizan.git`.
-- Push status: milestones 001 and 002 are pushed and verified on `origin/master`; milestone 003 is awaiting its commit and push verification.
+- Push status: milestones 001–003 are pushed and verified on `origin/master` at `034cb23e465b34838f5d66748b8a5f5d6efde335`.
 - Verification: `npm run lint`, `npm run typecheck`, `npm run build`, and the complete 10-test Playwright suite report all tests passing. The legacy suite requires `PLAYWRIGHT_CHROME_PATH` to point to installed Chrome because Playwright's bundled Chromium is unavailable in this environment.
 
 ## Roadmap completion
 
-3 of 8 milestones complete (37.5%) after the milestone 003 delivery commit is pushed and verified.
+3 of 8 milestones complete (37.5%).

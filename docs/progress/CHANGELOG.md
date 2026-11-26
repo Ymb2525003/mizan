@@ -27,3 +27,4 @@
 - Configured the supplied GitHub origin and verified milestone 001 commits on `origin/master` at `415d61b`.
 - Completed local verification for milestone 002: the legacy Playwright suite passes 9 of 9 tests using the installed Chrome executable.
 - Completed local verification for milestone 003: all 10 Playwright tests reported passing, including the new Next.js entry flow.
+- Pushed and verified milestone 003 at `034cb23` on `origin/master`.
