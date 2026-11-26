@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "planner.js",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --hostname 127.0.0.1 --port 35561",
     "build": "next build",
     "start": "next start",
     "lint": "eslint app",
